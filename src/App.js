@@ -14,7 +14,7 @@ function App() {
       <img src={checkmark} className="checkmark" alt="enabizLogo"/>
           
           The result of this test belongs to  A*** MARJANIBEN*** with Passport Number *******7018.
-          The test result is NEGATIVE and the sampling date is 7/2/2021 11:13:00 AM.<br/>
+          The test result is NEGATIVE and the sampling date is 13/9/2021 11:13:00 AM.<br/>
           It was downloaded by  A*** MARJANIBEN*** on 02.07.2021.<br/>
           CAN BE USED AS A DOCUMENT FOR EXIT ABROAD.<br/>
         </p>
