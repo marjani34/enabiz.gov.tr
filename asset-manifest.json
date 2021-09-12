@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/enabiz.gov.tr/static/css/main.a617e044.chunk.css",
+    "main.js": "/enabiz.gov.tr/static/js/main.c6dbbb3e.chunk.js",
+    "main.js.map": "/enabiz.gov.tr/static/js/main.c6dbbb3e.chunk.js.map",
+    "runtime-main.js": "/enabiz.gov.tr/static/js/runtime-main.4111649e.js",
+    "runtime-main.js.map": "/enabiz.gov.tr/static/js/runtime-main.4111649e.js.map",
+    "static/js/2.95f70925.chunk.js": "/enabiz.gov.tr/static/js/2.95f70925.chunk.js",
+    "static/js/2.95f70925.chunk.js.map": "/enabiz.gov.tr/static/js/2.95f70925.chunk.js.map",
+    "static/js/3.e72ed697.chunk.js": "/enabiz.gov.tr/static/js/3.e72ed697.chunk.js",
+    "static/js/3.e72ed697.chunk.js.map": "/enabiz.gov.tr/static/js/3.e72ed697.chunk.js.map",
+    "index.html": "/enabiz.gov.tr/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/enabiz.gov.tr/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.95f70925.chunk.js.LICENSE.txt": "/enabiz.gov.tr/static/js/2.95f70925.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/enabiz.gov.tr/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4111649e.js",
+    "static/js/2.95f70925.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.c6dbbb3e.chunk.js"
+  ]
+}
