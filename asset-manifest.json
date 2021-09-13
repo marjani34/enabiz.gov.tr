@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/enabiz.gov.tr/static/css/main.ebc6e556.chunk.css",
-    "main.js": "/enabiz.gov.tr/static/js/main.2a3f0bb7.chunk.js",
-    "main.js.map": "/enabiz.gov.tr/static/js/main.2a3f0bb7.chunk.js.map",
-    "runtime-main.js": "/enabiz.gov.tr/static/js/runtime-main.8fc9583d.js",
-    "runtime-main.js.map": "/enabiz.gov.tr/static/js/runtime-main.8fc9583d.js.map",
-    "static/js/2.28e894c5.chunk.js": "/enabiz.gov.tr/static/js/2.28e894c5.chunk.js",
-    "static/js/2.28e894c5.chunk.js.map": "/enabiz.gov.tr/static/js/2.28e894c5.chunk.js.map",
-    "static/js/3.5c527b76.chunk.js": "/enabiz.gov.tr/static/js/3.5c527b76.chunk.js",
-    "static/js/3.5c527b76.chunk.js.map": "/enabiz.gov.tr/static/js/3.5c527b76.chunk.js.map",
+    "main.js": "/enabiz.gov.tr/static/js/main.b0182fdf.chunk.js",
+    "main.js.map": "/enabiz.gov.tr/static/js/main.b0182fdf.chunk.js.map",
+    "runtime-main.js": "/enabiz.gov.tr/static/js/runtime-main.4111649e.js",
+    "runtime-main.js.map": "/enabiz.gov.tr/static/js/runtime-main.4111649e.js.map",
+    "static/js/2.95f70925.chunk.js": "/enabiz.gov.tr/static/js/2.95f70925.chunk.js",
+    "static/js/2.95f70925.chunk.js.map": "/enabiz.gov.tr/static/js/2.95f70925.chunk.js.map",
+    "static/js/3.e72ed697.chunk.js": "/enabiz.gov.tr/static/js/3.e72ed697.chunk.js",
+    "static/js/3.e72ed697.chunk.js.map": "/enabiz.gov.tr/static/js/3.e72ed697.chunk.js.map",
     "index.html": "/enabiz.gov.tr/index.html",
     "static/css/main.ebc6e556.chunk.css.map": "/enabiz.gov.tr/static/css/main.ebc6e556.chunk.css.map",
-    "static/js/2.28e894c5.chunk.js.LICENSE.txt": "/enabiz.gov.tr/static/js/2.28e894c5.chunk.js.LICENSE.txt",
+    "static/js/2.95f70925.chunk.js.LICENSE.txt": "/enabiz.gov.tr/static/js/2.95f70925.chunk.js.LICENSE.txt",
     "static/media/checkmark.86776eae.png": "/enabiz.gov.tr/static/media/checkmark.86776eae.png",
     "static/media/enabiz-logo-giris-eng.ede875db.png": "/enabiz.gov.tr/static/media/enabiz-logo-giris-eng.ede875db.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.8fc9583d.js",
-    "static/js/2.28e894c5.chunk.js",
+    "static/js/runtime-main.4111649e.js",
+    "static/js/2.95f70925.chunk.js",
     "static/css/main.ebc6e556.chunk.css",
-    "static/js/main.2a3f0bb7.chunk.js"
+    "static/js/main.b0182fdf.chunk.js"
   ]
 }
